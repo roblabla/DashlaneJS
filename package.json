@@ -1,0 +1,33 @@
+{
+  "name": "DashlaneJS",
+  "version": "1.0.0",
+  "description": "Decrypt your Dashlane vault",
+  "main": "index.js",
+  "dependencies": {
+    "co": "^3.1.0",
+    "co-from-stream": "0.0.0",
+    "co-fs": "^1.2.0",
+    "co-prompt": "^1.0.0",
+    "gnode": "^0.1.0",
+    "request": "^2.44.0",
+    "through2": "^0.6.2",
+    "thunkify": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roblabla/DashlaneJS"
+  },
+  "keywords": [
+    "dashlane"
+  ],
+  "author": "roblabla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roblabla/DashlaneJS/issues"
+  },
+  "homepage": "https://github.com/roblabla/DashlaneJS"
+}
